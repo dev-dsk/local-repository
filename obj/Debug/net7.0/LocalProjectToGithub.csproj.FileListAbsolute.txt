@@ -1,0 +1,15 @@
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\bin\Debug\net7.0\LocalProjectToGithub.exe
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\bin\Debug\net7.0\LocalProjectToGithub.deps.json
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\bin\Debug\net7.0\LocalProjectToGithub.runtimeconfig.json
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\bin\Debug\net7.0\LocalProjectToGithub.dll
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\bin\Debug\net7.0\LocalProjectToGithub.pdb
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\obj\Debug\net7.0\LocalProjectToGithub.csproj.AssemblyReference.cache
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\obj\Debug\net7.0\LocalProjectToGithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\obj\Debug\net7.0\LocalProjectToGithub.AssemblyInfoInputs.cache
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\obj\Debug\net7.0\LocalProjectToGithub.AssemblyInfo.cs
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\obj\Debug\net7.0\LocalProjectToGithub.csproj.CoreCompileInputs.cache
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\obj\Debug\net7.0\LocalProjectToGithub.dll
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\obj\Debug\net7.0\refint\LocalProjectToGithub.dll
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\obj\Debug\net7.0\LocalProjectToGithub.pdb
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\obj\Debug\net7.0\LocalProjectToGithub.genruntimeconfig.cache
+C:\Users\Jesús Castrillo\source\repos\LocalProjectToGithub\obj\Debug\net7.0\ref\LocalProjectToGithub.dll
